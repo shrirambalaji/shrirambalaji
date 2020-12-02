@@ -7,4 +7,6 @@ I'm a Software Engineer, dabbling with things on the interwebs.
 
 - 🌱 I’m currently learning Rust :crab:
 - 💬 Ask me about: Open Source, JS, Node, Linux and someday Rust
+- ✍️ Blogs at https://blog.shrirambalaji.dev
 - 📫 How to reach me: https://twitter.com/__shriram
+- 👨 More about me: https://shrirambalaji.dev 
