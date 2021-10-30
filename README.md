@@ -8,3 +8,6 @@
 - ✍️ Blogs at https://blog.shrirambalaji.dev
 - 📫 How to reach me: https://twitter.com/shrirambalaji
 - 👨 More about me: https://shrirambalaji.dev 
+
+
+![Shriram's github stats](https://github-readme-stats.vercel.app/api?username=shrirambalaji&show_icons=false&theme=tokyonight&bg_color=0d1117&border_color=161b22)
