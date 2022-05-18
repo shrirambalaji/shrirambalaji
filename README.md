@@ -10,4 +10,4 @@
 - 👨 More about me: https://shrirambalaji.dev 
 
 
-![Shriram's github stats](https://github-readme-stats.vercel.app/api?username=shrirambalaji&show_icons=false&theme=tokyonight&border_color=30363d40&bg_color=ffffff00)
+
